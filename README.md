@@ -70,9 +70,9 @@
 ![Статистика](screenshots/Screenshot_14.png)
 
 
-### Авторизация преподавателей
-![Авторизация преподавателя](screenshots/Screenshot_16.png)
-![Личный кабинет преподавателя](screenshots/Screenshot_17.png)
+### Авторизация студента
+![Авторизация студента](screenshots/Screenshot_16.png)
+![Личный кабинет студента](screenshots/Screenshot_17.png)
 
 ## 🚀 Установка и настройка
 
