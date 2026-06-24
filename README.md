@@ -52,14 +52,10 @@
 ## 📸 Скриншоты приложения
 
 ### Главная страница
-![Главная страница](screenshots/Screenshot_1.png)
-
-### Личный кабинет студента
-![Личный кабинет студента](screenshots/Screenshot_2.png)
-
-### Тест Айзенка
-![Тест Айзенка](screenshots/Screenshot_3.png)
-![Тест Айзенка - вопросы](screenshots/Screenshot_4.png)
+![Главная страница - профиль психолога](screenshots/Screenshot_1.png)
+![Главная страница - для кого платформа](screenshots/Screenshot_2.png)
+![Главная страница - секция для студентов](screenshots/Screenshot_3.png)
+![Главная страница - секция для преподавателей](screenshots/Screenshot_4.png)
 
 ### IQ тест
 ![IQ тест](screenshots/Screenshot_5.png)
