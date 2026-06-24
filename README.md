@@ -57,8 +57,8 @@
 ![Главная страница - секция для студентов](screenshots/Screenshot_3.png)
 ![Главная страница - секция для преподавателей](screenshots/Screenshot_4.png)
 
-### IQ тест
-![IQ тест](screenshots/Screenshot_5.png)
+### Вход в личный кабинет психолога
+![Вход в личный кабинет психолога](screenshots/Screenshot_5.png)
 
 ### Тест Люшера
 ![Тест Люшера](screenshots/Screenshot_6.png)
