@@ -1,0 +1,486 @@
+{
+    "id": "aggression",
+    "title": "Tajovuz holati tashxisi",
+    "title_full": "TАЖОВУЗ ХОЛАТИ ТАШХИСИ (Басс-Дарки тести)",
+    "description": "Ushbu test tajovuzning turli shakllarini aniqlash uchun mo'ljallangan. Har bir savolni diqqat bilan o'qib, o'zingizga mos javobni tanlang.",
+    "instructions": "Quyidagi hukmlarni o'qib (yoki eshitib) ularni o'z xulq-atvoringiz bilan solishtiring va unga mos yoki mos emasligini bildirish uchun berilgan javob variantlaridan birini: «ha», «ha shekillli», yoki «yo'q shekillli», «yo'q» tanlang.",
+    "scales": [
+        {
+            "id": 1,
+            "name": "Jismoniy tajovuz",
+            "key": "jismoniy",
+            "k": 11,
+            "color": "#ef4444"
+        },
+        {
+            "id": 2,
+            "name": "Verbal tajovuz",
+            "key": "verbal",
+            "k": 8,
+            "color": "#f97316"
+        },
+        {
+            "id": 3,
+            "name": "Bilvosita tajovuz",
+            "key": "bilvosita",
+            "k": 13,
+            "color": "#eab308"
+        },
+        {
+            "id": 4,
+            "name": "Negativizm",
+            "key": "negativizm",
+            "k": 20,
+            "color": "#8b5cf6"
+        },
+        {
+            "id": 5,
+            "name": "Tajanglik",
+            "key": "tajanglik",
+            "k": 9,
+            "color": "#06b6d4"
+        },
+        {
+            "id": 6,
+            "name": "Shubhalanuvchilik",
+            "key": "shubha",
+            "k": 11,
+            "color": "#10b981"
+        },
+        {
+            "id": 7,
+            "name": "Hafagarchililik",
+            "key": "hafagarchi",
+            "k": 18,
+            "color": "#3b82f6"
+        },
+        {
+            "id": 8,
+            "name": "Aybdorlik hissi",
+            "key": "aybdor",
+            "k": 11,
+            "color": "#ec4899"
+        }
+    ],
+    "scoring_key": {
+        "1": {
+            "plus": [
+                1,
+                17,
+                25,
+                41,
+                55,
+                62,
+                68
+            ],
+            "minus": [
+                9
+            ]
+        },
+        "2": {
+            "plus": [
+                7,
+                15,
+                23,
+                31,
+                46,
+                53,
+                60,
+                66,
+                71,
+                73
+            ],
+            "minus": [
+                39,
+                74,
+                75
+            ]
+        },
+        "3": {
+            "plus": [
+                2,
+                10,
+                18,
+                34,
+                49,
+                56,
+                63
+            ],
+            "minus": [
+                26
+            ]
+        },
+        "4": {
+            "plus": [
+                4,
+                12,
+                20,
+                28
+            ],
+            "minus": [
+                36
+            ]
+        },
+        "5": {
+            "plus": [
+                3,
+                19,
+                27,
+                43,
+                50,
+                57,
+                64,
+                72
+            ],
+            "minus": [
+                11,
+                35,
+                69
+            ]
+        },
+        "6": {
+            "plus": [
+                6,
+                14,
+                22,
+                38,
+                45,
+                52,
+                59
+            ],
+            "minus": [
+                65,
+                70
+            ]
+        },
+        "7": {
+            "plus": [
+                5,
+                13,
+                21,
+                29,
+                37,
+                44,
+                51,
+                58
+            ],
+            "minus": []
+        },
+        "8": {
+            "plus": [
+                8,
+                16,
+                24,
+                32,
+                40,
+                47,
+                54,
+                61,
+                67
+            ],
+            "minus": []
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "text": "Ba'zan birovga zarar etkazmasdan tura olmayman."
+        },
+        {
+            "id": 2,
+            "text": "Ba'zida o'zimga yoqmagan odamlarni g'iybat qilishim mumkin."
+        },
+        {
+            "id": 3,
+            "text": "Jahilim tez chiqadi, ammo tez tinchlanib o'zimni jilovlantira olaman."
+        },
+        {
+            "id": 4,
+            "text": "Agar mendan biror narsani bajarish yaxshiligcha so'ralmasa, iltimosni bajarmaymen."
+        },
+        {
+            "id": 5,
+            "text": "Har doim ham yozimga tegishli narsalarni qo'lga kirita olmayman."
+        },
+        {
+            "id": 6,
+            "text": "Boshqalar orqamdan gapirishlarini bilaman."
+        },
+        {
+            "id": 7,
+            "text": "Agar boshqa odamlarning harakatlari menga yoqmasa, buni ularga dangal aytaman."
+        },
+        {
+            "id": 8,
+            "text": "Bordi-yu biror kishini aldassam, vijdonim qiynaladi."
+        },
+        {
+            "id": 9,
+            "text": "Menga hech qachon narsalarni otib yuboradigan darajada jahliim chiqmaydi."
+        },
+        {
+            "id": 10,
+            "text": "Birosonning kamchiliklarini doim kechia olaman."
+        },
+        {
+            "id": 11,
+            "text": "O'rnatilgan tartib-qoida fikir yoqmasa, uni buzgim keladi."
+        },
+        {
+            "id": 12,
+            "text": "Boshqalar qulay vaziyatlardan deyarli hammo vaqt foydalannadilar."
+        },
+        {
+            "id": 13,
+            "text": "O'zini men yiqlagandan ortiq dushona tutaetgan odamlarga biroz shubha bilan qarayman."
+        },
+        {
+            "id": 14,
+            "text": "Ko'pincha boshqalarning fikriga qo'shilmayman."
+        },
+        {
+            "id": 15,
+            "text": "Ba'zida xaelimga shunday fikrlar keladiki, ulardan uyalanman."
+        },
+        {
+            "id": 16,
+            "text": "Birov meni birinchi bo'lib ursa, unga javob qaytarmaaman."
+        },
+        {
+            "id": 17,
+            "text": "Jahliim chiqanda eshiklarni qarsillatiib yopaman."
+        },
+        {
+            "id": 18,
+            "text": "Atrofdagilar o'ylaganidan ham jahlimni chiqarishim oson."
+        },
+        {
+            "id": 19,
+            "text": "Agar kimdir o'zini xo'jaynlardek tutsa, doim unga qarshi bo'laman."
+        },
+        {
+            "id": 20,
+            "text": "O'z taqdirimdann biroz o'ksinaman."
+        },
+        {
+            "id": 21,
+            "text": "Menimcha, ko'pchilik odamlar meni eqtirmasa kerak."
+        },
+        {
+            "id": 22,
+            "text": "Ba'zan kimdir mening fikrimga qo'shilmasa, o'zimni baxslashishdan to'xtata olmayman."
+        },
+        {
+            "id": 23,
+            "text": "Menimcha, ish yuzasidan tovlagan odamlarning vijdoni qiynalishi kerak."
+        },
+        {
+            "id": 24,
+            "text": "O'zimni yo oilamni haqoratlagann odam bilan mushtlashishga tayorman."
+        },
+        {
+            "id": 25,
+            "text": "Ko'pol hazil qila olmayman."
+        },
+        {
+            "id": 26,
+            "text": "Ustimdan kulishganda qattiq jahilm chiqib ketadi."
+        },
+        {
+            "id": 27,
+            "text": "Odamlar o'zini boshiqilarga tutsa, darov tanobini tortib qo'yaman."
+        },
+        {
+            "id": 28,
+            "text": "Deyarli har dafta o'zimga xafta qilishga niyati bo'lgan dushmanlarim yo'q."
+        },
+        {
+            "id": 29,
+            "text": "Ko'pchilik menga xasad qiladi."
+        },
+        {
+            "id": 30,
+            "text": "Huquqlarimning hurmat qilinishini talab qilaman."
+        },
+        {
+            "id": 31,
+            "text": "Ota-onaga can yordam beraeqtganlarning vidjdoni qiynaladi."
+        },
+        {
+            "id": 32,
+            "text": "Doim odamlarning asabiga tegib yuradigan odamlarning dodini berib qo'yish kerak."
+        },
+        {
+            "id": 33,
+            "text": "Jahliim chiqib ketganda, ba'zida «qovog'imdan qor yog'adi»."
+        },
+        {
+            "id": 34,
+            "text": "Odamlar o'zim bilan yomon munosabatda bo'lsa ham, dilim snog bo'lmaydi."
+        },
+        {
+            "id": 35,
+            "text": "Kimdir jahlimni chiqarsa ham, unga e'tibor bermayman."
+        },
+        {
+            "id": 36,
+            "text": "Tashqaridan qaranganda bilimsa ham, ba'zida xasad qilanam."
+        },
+        {
+            "id": 37,
+            "text": "Ba'zida menga kulshinmaqdan ustimdan kulishaetiganday tuuladi."
+        },
+        {
+            "id": 38,
+            "text": "Hatto jahlim chiqanda ham qo'pol so'zlar ishlatmayman."
+        },
+        {
+            "id": 39,
+            "text": "Xatolarimning kechirilishini juda zo'r xohlayman."
+        },
+        {
+            "id": 40,
+            "text": "Kimdir meni ursa ham, kamdan-kam hollarda javob qaytaraman."
+        },
+        {
+            "id": 41,
+            "text": "Biror narsa xohlaganidek chiqmasa, ba'zida xafa bo'laman."
+        },
+        {
+            "id": 42,
+            "text": "Sizning oldimda odamlar boriligini ham asabimga egadi."
+        },
+        {
+            "id": 43,
+            "text": "Hech kimdan haddan tashqari nafratlanmayman."
+        },
+        {
+            "id": 44,
+            "text": "Asosiy qoidam: «Hech qachon begonalarga ishonma»."
+        },
+        {
+            "id": 45,
+            "text": "Biror kims asabimga tegsa, u haqidagi barcha fikrlarni aytib yuborishim kerak."
+        },
+        {
+            "id": 46,
+            "text": "Juda ko'p kilmishlarim uchun keyinn afsuslanamanman."
+        },
+        {
+            "id": 47,
+            "text": "Jahliim chiqsa, birovrni urib yuborishim ham mumkin."
+        },
+        {
+            "id": 48,
+            "text": "Yo'n yoshligimdan beri xaliqacha birdan qattiq jahliim chiqqqan vaqtlar bo'lmagan."
+        },
+        {
+            "id": 49,
+            "text": "Ko'pincha o'zimni portlay-portlay deb turgan poroxoli bo'chakdek his etaman."
+        },
+        {
+            "id": 50,
+            "text": "Agar odamlar o'zimni qanday his etaeqtganimi bilganlarida meni til topish qiyin bo'lgan odam deb hisoblashardi."
+        },
+        {
+            "id": 51,
+            "text": "Doim nima sababdan odamlar menga yaxshilik qilishlarini tushunishga intilaman."
+        },
+        {
+            "id": 52,
+            "text": "Menga baqirishganda, baqirib javob qaytaraman."
+        },
+        {
+            "id": 53,
+            "text": "Muafaqiyatsizliklar meni ranjitadi."
+        },
+        {
+            "id": 54,
+            "text": "Mushtlashing borasida boshqalardanq kolib ham, oshib ham ketmayman."
+        },
+        {
+            "id": 55,
+            "text": "Jahliim chiqib ketganidan duch kelgan narsani sindirib tashlashni eslol olaman."
+        },
+        {
+            "id": 56,
+            "text": "Ba'zida mushtlashishni o'zim boshqalashhga taerliqmi sezaman."
+        },
+        {
+            "id": 57,
+            "text": "Ba'zida o'zimni himoya qilish uchun odamlar bilan munosabatda adolatsizlik qilaetganning hiss etaman."
+        },
+        {
+            "id": 58,
+            "text": "Avvallari ko'pchilik odamlar rost gapiradi, deb o'ylaydim, endi esa shunday o'ylamayman."
+        },
+        {
+            "id": 59,
+            "text": "Jahliim chiqanda so'kinaaman."
+        },
+        {
+            "id": 60,
+            "text": "Biron narsani noto'g'ri qilib qo'ysam, vidjdoim qiynaladi."
+        },
+        {
+            "id": 61,
+            "text": "Ba'zan jahlim chiqanini stolga mushtq bilan urish orqali ko'sataman."
+        },
+        {
+            "id": 62,
+            "text": "O'zimga yoqmaydigan odamlarga nisbatan ko'proq bo'laman."
+        },
+        {
+            "id": 63,
+            "text": "Ba'zida zarar etkazish niyyati bo'lgan dushmanlar yo'q emasmi."
+        },
+        {
+            "id": 64,
+            "text": "Odamni o'z yerniga tushirib qo'yish talab qilinganida ham, bundayi qila olmayman."
+        },
+        {
+            "id": 65,
+            "text": "Tez-tez «noto'g'ri yashamaapman» degan xaelga borib turaman."
+        },
+        {
+            "id": 66,
+            "text": "Shunday odamlar borki, ular jahilimni chiqarganlaridan mushtlashib ketishim mumkin."
+        },
+        {
+            "id": 67,
+            "text": "Mayda-chuyidalar deb mening jahliimni chiqaravermaydi."
+        },
+        {
+            "id": 68,
+            "text": "Ko'pincha o'zim ja'hlimga qaraashni aslida ularni jazolaqo'chi bo'lmayman, degan fikr kamdan-kam haelimga keladi."
+        },
+        {
+            "id": 69,
+            "text": "Ko'pincha odamlarni shunday ko'rqitib, aslida ularni jazol amoqchi bo'lmayman."
+        },
+        {
+            "id": 70,
+            "text": "O'xiri paytlarda juda ziqna va ezma bo'lib qoldim."
+        },
+        {
+            "id": 71,
+            "text": "Ba'zan jahlim chiqanda baland ovoz bilan gapiraman."
+        },
+        {
+            "id": 72,
+            "text": "Odatda, odamlarga bo'lgan yomon munosabatimni yashiraman."
+        },
+        {
+            "id": 73,
+            "text": "Baxslashib torgingshandan ko'ra rozi bo'lib qo'ya qolamann."
+        },
+        {
+            "id": 74,
+            "text": "Hech qachon bezorilarning harakatlarining oldini olishga harakat qilmayman."
+        },
+        {
+            "id": 75,
+            "text": "Ko'pincha o'zimni jinoyatchi deb his qiladinman."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+# Отключаем PageSpeed для этого сайта (он ломает стили)
+<IfModule pagespeed_module>
+    ModPagespeed off
+</IfModule>
+
+# Перенаправление всех запросов в public/index.php
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Если запрос идет к существующему файлу или директории в public/, не перенаправляем
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    
+    # Перенаправляем все запросы в public/index.php
+    RewriteRule ^(.*)$ public/index.php [QSA,L]
+    
+    # Если запрос к статическим файлам (css, js, images, videos), ищем их в public/
+    RewriteCond %{REQUEST_URI} \.(css|js|jpg|jpeg|png|gif|svg|webp|mp4|webm|ico|woff|woff2|ttf|eot)$ [NC]
+    RewriteCond %{DOCUMENT_ROOT}/public%{REQUEST_URI} -f
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# Запрещаем доступ к скрытым файлам и директориям
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Разрешаем доступ к .well-known для Let's Encrypt и других сервисов
+<FilesMatch "^\.well-known">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Запрещаем прямой доступ к важным файлам и директориям
+RedirectMatch 403 ^/vendor/.*
+RedirectMatch 403 ^/src/.*
+RedirectMatch 403 ^/storage/.*
+RedirectMatch 403 ^/\.env$
+RedirectMatch 403 ^/\.git/.*
+
+# Устанавливаем правильную кодировку
+AddDefaultCharset UTF-8
+
+# Включаем сжатие для улучшения производительности
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>

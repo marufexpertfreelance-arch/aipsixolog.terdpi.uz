@@ -1,0 +1,35 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Vendor directory
+/vendor/
+
+# Storage and logs
+/storage/*.log
+/storage/exports/
+/storage/cache/
+/storage/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Composer
+composer.lock
+
+# Personal data
+/Xudoyorova Marvarid/

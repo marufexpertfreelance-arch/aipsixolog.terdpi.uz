@@ -1,0 +1,134 @@
+{
+  "id": "lusher",
+  "name": "Lyusher Testi",
+  "description": "Lyusher rang testi - bu psixologik holat va shaxsiyat xususiyatlarini ranglar orqali aniqlash uchun klassik test. Test 8 ta rangdan iborat bo'lib, 2 bosqichda o'tkaziladi.",
+  "instructions": "Test ikki bosqichdan iborat. Birinchi bosqichda siz ranglarni o'z xohishingizga qarab tartibga solasiz. Ikkinchi bosqichda esa qaysi ranglarni yoqtirmasligingizni ko'rsatasiz. Har bir bosqichda barcha 8 ta rangni tartibga solishingiz kerak.",
+  "type": "lusher",
+  "colors": [
+    {
+      "id": 0,
+      "name": "Ko'k",
+      "code": "#1e40af",
+      "description": "Tinchlik, qanoatlanish, chuqur his-tuyg'ular"
+    },
+    {
+      "id": 1,
+      "name": "Yashil",
+      "code": "#059669",
+      "description": "Qat'iyat, qat'iyatlik, o'zini tasdiqlash"
+    },
+    {
+      "id": 2,
+      "name": "Qizil",
+      "code": "#dc2626",
+      "description": "Faollik, iroda, agressivlik"
+    },
+    {
+      "id": 3,
+      "name": "Sariq",
+      "code": "#eab308",
+      "description": "Xursandchilik, umid, faollik"
+    },
+    {
+      "id": 4,
+      "name": "Binafsha",
+      "code": "#9333ea",
+      "description": "Tasavvur, sezgi, infantilik"
+    },
+    {
+      "id": 5,
+      "name": "Jigarrang",
+      "code": "#92400e",
+      "description": "Sezgirik, jismoniy his-tuyg'ular"
+    },
+    {
+      "id": 6,
+      "name": "Qora",
+      "code": "#000000",
+      "description": "Rad etish, norozilik, agressiya"
+    },
+    {
+      "id": 7,
+      "name": "Kulrang",
+      "code": "#6b7280",
+      "description": "Neytralik, uzoqlik"
+    }
+  ],
+  "position_interpretations": {
+    "1": {
+      "name": "Asosiy maqsad",
+      "description": "Bu rang sizning asosiy maqsadingizni va intilishingizni ko'rsatadi"
+    },
+    "2": {
+      "name": "Muvaffaqiyat yo'li",
+      "description": "Bu rang muvaffaqiyatga erishish usulingizni tavsiflaydi"
+    },
+    "3": {
+      "name": "Hozirgi holat",
+      "description": "Bu rang sizning hozirgi psixologik holatingizni aks ettiradi"
+    },
+    "4": {
+      "name": "Yashirin imkoniyatlar",
+      "description": "Bu rang sizning yashirin qobiliyatlaringizni ko'rsatadi"
+    },
+    "5": {
+      "name": "Kompensatsiya",
+      "description": "Bu rang stressdan himoya qilish mexanizmini ko'rsatadi"
+    },
+    "6": {
+      "name": "Yashirin stress",
+      "description": "Bu rang sizda yashirin stress omillarini ko'rsatadi"
+    },
+    "7": {
+      "name": "Rad etilgan",
+      "description": "Bu rang siz tomonidan rad etilgan xususiyatlarni ko'rsatadi"
+    },
+    "8": {
+      "name": "Asosiy stress",
+      "description": "Bu rang sizda mavjud bo'lgan asosiy stress manbasini ko'rsatadi"
+    }
+  },
+  "color_interpretations": {
+    "0": {
+      "preferred": "Siz tinch va muvozanatli insonsiz. Siz chuqur his-tuyg'ularga ega va munosabatlarda barqarorsiz.",
+      "neutral": "Siz o'zingizni qulay his qilasiz va muammolarni hal qilishga qodirsiz.",
+      "rejected": "Siz tinchlik va barqarorlikni izlayapsiz. Hozirda sizning hayotingizda stress yoki qayg'u bor."
+    },
+    "1": {
+      "preferred": "Siz qat'iyatli va qat'iy insonsiz. Maqsadlaringizga erishishda qat'iyatsiz.",
+      "neutral": "Siz o'z fikrlaringizni himoya qila olasiz va o'z masuliyatingizni anglay olasiz.",
+      "rejected": "Siz qat'iyatning yo'qligini his qilasiz yoki o'z masuliyatingizdan qochishga harakat qilmoqdasiz."
+    },
+    "2": {
+      "preferred": "Siz faol va energik insonsiz. Hayotga ehtiros bilan yondashasiz.",
+      "neutral": "Siz hozir faol va hayotga ijobiy yondashasiz.",
+      "rejected": "Siz energiyaning etishmasligini his qilasiz yoki hayotga jiddiy yondashmoqdasiz."
+    },
+    "3": {
+      "preferred": "Siz optimistik va yorug' kelajakka umid qilasiz. Siz hayotni yaxshi tomondan ko'rasiz.",
+      "neutral": "Siz hozir yaxshi kayfiyatdasiz va hayotga ijobiy yondashasiz.",
+      "rejected": "Siz umidsizlik yoki kayfiyatning pastligini his qilasiz."
+    },
+    "4": {
+      "preferred": "Siz muhayyilaga ega insonsiz. Siz ijodiy fikrlashga qodirsiz va intuitiv yondashasiz.",
+      "neutral": "Siz hozir ijodiy va yangi g'oyalarga ochiq ekansiz.",
+      "rejected": "Siz muhayyilaning cheklanishini his qilasiz yoki o'zingizni ijodiy emas deb his qilasiz."
+    },
+    "5": {
+      "preferred": "Siz fizik qulaylik va hissiyotlarga ehtiyoj sezasiz. Siz hayotning zavqini sevasiz.",
+      "neutral": "Siz o'z fizik holatingiz bilan qanoatlanasiz.",
+      "rejected": "Siz fizik qulaylikning etishmasligini his qilasiz yoki o'z tanangiz bilan qanoatlansiz."
+    },
+    "6": {
+      "preferred": "Siz rad etish va protest ruhiga egasiz. Siz mavjud tizimlarga qarshi chiqasiz.",
+      "neutral": "Siz hozir o'zingizni himoya qilishga tayyor ekansiz.",
+      "rejected": "Siz rad etishni qabul qilolmaysiz va hamma narsani qabul qilishga harakat qilasiz."
+    },
+    "7": {
+      "preferred": "Siz neutral va o'zini tutib turishga intilasiz. Siz hayotdan uzoqlashmoqchisiz.",
+      "neutral": "Siz hozir hamma narsaga teng yondashasiz.",
+      "rejected": "Siz o'zini tutib turishga harakat qilasiz va hayotga qiziqmasiz."
+    }
+  }
+}
+

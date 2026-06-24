@@ -1,0 +1,96 @@
+{
+  "id": "ranglar",
+  "name": "Ranglar Metodikasi",
+  "description": "Ranglar metodikasi - bu psixologik holatni va shaxsiyat xususiyatlarini ranglar orqali aniqlash uchun sodda va samarali metodika. Bu metodika ranglarni tanlash va ularning psixologik ma'nosi asosida shaxsiyat xususiyatlarini baholashga qaratilgan.",
+  "instructions": "Quyidagi ranglardan o'zingizga eng yoqadigan rangni tanlang. Keyin esa qaysi ranglarni yoqtirmasligingizni ko'rsating. Test natijalari sizning psixologik holatingiz va shaxsiyat xususiyatlaringiz haqida ma'lumot beradi.",
+  "type": "ranglar",
+  "colors": [
+    {
+      "id": 0,
+      "name": "Ko'k",
+      "code": "#1e40af",
+      "description": "Tinchlik, qanoatlanish, barqarorlik"
+    },
+    {
+      "id": 1,
+      "name": "Yashil",
+      "code": "#059669",
+      "description": "Qat'iyat, mustahkamlik, o'zini tasdiqlash"
+    },
+    {
+      "id": 2,
+      "name": "Qizil",
+      "code": "#dc2626",
+      "description": "Faollik, iroda, ehtiros"
+    },
+    {
+      "id": 3,
+      "name": "Sariq",
+      "code": "#eab308",
+      "description": "Xursandchilik, optimizm, faollik"
+    },
+    {
+      "id": 4,
+      "name": "Binafsha",
+      "code": "#9333ea",
+      "description": "Ijodkorlik, muhayyila, sezgi"
+    },
+    {
+      "id": 5,
+      "name": "Jigarrang",
+      "code": "#92400e",
+      "description": "Iltifot, qulaylik, sezgirik"
+    },
+    {
+      "id": 6,
+      "name": "Qora",
+      "code": "#000000",
+      "description": "Mustaqillik, qat'iyat, rad etish"
+    },
+    {
+      "id": 7,
+      "name": "Kulrang",
+      "code": "#6b7280",
+      "description": "Neytralik, betaraflik, masofaviylik"
+    },
+    {
+      "id": 8,
+      "name": "Oq",
+      "code": "#ffffff",
+      "description": "Poklik, ochiqlik, tayyorlik"
+    },
+    {
+      "id": 9,
+      "name": "Pushti",
+      "code": "#ec4899",
+      "description": "Mehribonlik, sevgi, nazokat"
+    }
+  ],
+  "interpretations": {
+    "preferred": {
+      "0": "Siz tinch va barqaror insonsiz. Chuqur his-tuyg'ularga egasiz va munosabatlarda ishonchli ekansiz.",
+      "1": "Siz qat'iyatli va mustahkam insonsiz. Maqsadlaringizga erishishda qat'iyatsiz va mas'uliyatlisiz.",
+      "2": "Siz faol va energik insonsiz. Hayotga ehtiros bilan yondashasiz va harakatda qolishni yaxshi ko'rasiz.",
+      "3": "Siz optimistik va yorug' kelajakka umid qilasiz. Hayotni yaxshi tomondan ko'rasiz va xursand ekansiz.",
+      "4": "Siz ijodiy va muhayyilaga ega insonsiz. Yangi g'oyalarga ochiq ekansiz va intuitiv yondashasiz.",
+      "5": "Siz fizik qulaylik va hissiyotlarga ehtiyoj sezasiz. Hayotning zavqini sevasiz va sokinlikni yaxshi ko'rasiz.",
+      "6": "Siz mustaqil va qat'iy insonsiz. Rad etish va protest ruhiga egasiz, o'z fikringizni himoya qilasiz.",
+      "7": "Siz neytral va o'zini tutib turishga intilasiz. Hayotdan uzoqlashmoqchisiz va xotirjamlikni qidirasiz.",
+      "8": "Siz pok va ochiq insonsiz. Yangi narsalarga tayyor ekansiz va hayotni toza ko'z bilan ko'rasiz.",
+      "9": "Siz mehribon va sevgi dolu insonsiz. Munosabatlarda samimiy ekansiz va nazokat bilan yondashasiz."
+    },
+    "rejected": {
+      "0": "Hozirda sizda tinchlik va barqarorlikka ehtiyoj bor. Hayotingizda stress yoki qayg'u mavjud.",
+      "1": "Siz qat'iyatning yo'qligini his qilasiz yoki o'z masuliyatingizdan qochishga harakat qilmoqdasiz.",
+      "2": "Siz energiyaning etishmasligini his qilasiz yoki hayotga jiddiy yondashmoqdasiz.",
+      "3": "Siz umidsizlik yoki kayfiyatning pastligini his qilasiz. Hayotga ijobiy yondashishda qiyinchilik bor.",
+      "4": "Siz muhayyilaning cheklanishini his qilasiz yoki o'zingizni ijodiy emas deb his qilasiz.",
+      "5": "Siz fizik qulaylikning etishmasligini his qilasiz yoki o'z tanangiz bilan qanoatlansiz.",
+      "6": "Siz mustaqillikdan qo'rqasiz yoki hamma narsani qabul qilishga harakat qilasiz.",
+      "7": "Siz o'zini tutib turishga harakat qilasiz va hayotga qiziqmasiz.",
+      "8": "Siz yangilanishga tayyor emassiz yoki hayotda qiyinchiliklar bor.",
+      "9": "Siz sevgining etishmasligini his qilasiz yoki munosabatlarda muammolar bor."
+    }
+  }
+}
+

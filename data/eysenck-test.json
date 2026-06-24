@@ -1,0 +1,318 @@
+{
+  "id": "eysenck",
+  "name": "Temperament",
+  "description": "Bu test sizning temperamentingizni aniqlash uchun mo'ljallangan. Testda 57 ta savol mavjud.",
+  "instructions": "Har bir savolga to'liq va aniq javob bering. Hech qanday savolni o'tkazib yubormang.",
+  "type": "eysenck",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Siz tez-tez yangi his-tuyg'ularni boshdan kechirasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 2,
+      "text": "Siz ko'pincha tashqi sabablarga qarab o'z fikringizni o'zgartirasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 3,
+      "text": "Siz ko'pincha o'zingizni tushkun kayfiyatda his qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 4,
+      "text": "Siz o'zingizni murakkab vaziyatlarda ham o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 5,
+      "text": "Siz ko'pincha harakatlaringizda shoshilmay qilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 6,
+      "text": "Siz ko'pincha jiddiy qarorlar qabul qilishdan qo'rqasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 7,
+      "text": "Siz o'zingizni ko'proq qo'rqoq yoki jasur deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 8,
+      "text": "Siz ko'pincha o'z xatolaringizni tan olasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 9,
+      "text": "Siz yolg'izlikda yaxshi dam olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 10,
+      "text": "Siz ko'pincha o'zingizni tashvishli kayfiyatda tutasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 11,
+      "text": "Siz ko'pincha uyqusizlikdan aziyat chekasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 12,
+      "text": "Siz ko'pincha o'zingizni xotirjam va tinch tutasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 13,
+      "text": "Siz ko'pincha o'zingizni zo'ravonlikdan qo'rqasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 14,
+      "text": "Siz ko'pincha o'z fikringizni ochiq-oydin aytasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 15,
+      "text": "Siz ko'pincha o'z xatolaringizni yashirasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 16,
+      "text": "Siz ko'pincha o'zingizni o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 17,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 18,
+      "text": "Siz ko'pincha yolg'izlikni afzal ko'rasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 19,
+      "text": "Siz ko'pincha o'z xatolaringizni tan olasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 20,
+      "text": "Siz ko'pincha o'zingizni xotirjam tutasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 21,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 22,
+      "text": "Siz ko'pincha o'zingizni xavotirli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 23,
+      "text": "Siz ko'pincha o'zingizni boshqalar bilan yaxshi muloqot qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 24,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 25,
+      "text": "Siz ko'pincha o'z harakatlaringizni oldindan o'ylab qilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 26,
+      "text": "Siz ko'pincha o'zingizni tez qaror qabul qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 27,
+      "text": "Siz ko'pincha o'zingizni qiyin vaziyatlarda ham boshqa kishilarga yordam bera olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 28,
+      "text": "Siz ko'pincha o'zingizni bezovta va tashvishli qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 29,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 30,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 31,
+      "text": "Siz ko'pincha o'zingizni boshqalar bilan yaxshi muloqot qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 32,
+      "text": "Siz ko'pincha o'zingizni qiyin vaziyatlarda ham o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 33,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 34,
+      "text": "Siz ko'pincha o'zingizni tez qaror qabul qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 35,
+      "text": "Siz ko'pincha o'zingizni o'z harakatlaringizni oldindan o'ylab qiluvchi deb bilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 36,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 37,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 38,
+      "text": "Siz ko'pincha o'zingizni boshqalar bilan yaxshi muloqot qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 39,
+      "text": "Siz ko'pincha o'zingizni qiyin vaziyatlarda ham o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 40,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 41,
+      "text": "Siz ko'pincha o'zingizni tez qaror qabul qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 42,
+      "text": "Siz ko'pincha o'zingizni o'z harakatlaringizni oldindan o'ylab qiluvchi deb bilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 43,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 44,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 45,
+      "text": "Siz ko'pincha o'zingizni boshqalar bilan yaxshi muloqot qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 46,
+      "text": "Siz ko'pincha o'zingizni qiyin vaziyatlarda ham o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 47,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 48,
+      "text": "Siz ko'pincha o'zingizni tez qaror qabul qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 49,
+      "text": "Siz ko'pincha o'zingizni o'z harakatlaringizni oldindan o'ylab qiluvchi deb bilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 50,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 51,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 52,
+      "text": "Siz ko'pincha o'zingizni boshqalar bilan yaxshi muloqot qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 53,
+      "text": "Siz ko'pincha o'zingizni qiyin vaziyatlarda ham o'z-o'zidan tuta olasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 54,
+      "text": "Siz ko'pincha o'zingizni tashvishli va bezovta qilasizmi?",
+      "dimension": "N"
+    },
+    {
+      "id": 55,
+      "text": "Siz ko'pincha o'zingizni tez qaror qabul qiluvchi deb bilasizmi?",
+      "dimension": "E"
+    },
+    {
+      "id": 56,
+      "text": "Siz ko'pincha o'zingizni o'z harakatlaringizni oldindan o'ylab qiluvchi deb bilasizmi?",
+      "dimension": "L"
+    },
+    {
+      "id": 57,
+      "text": "Siz ko'pincha o'zingizni qiziq va qiziqarli deb bilasizmi?",
+      "dimension": "E"
+    }
+  ],
+  "scoring": {
+    "E": {
+      "description": "Ekstraversiya - Introversiya",
+      "high": "Ekstravert",
+      "low": "Introvert"
+    },
+    "N": {
+      "description": "Nevrotizm",
+      "high": "Yuqori nevrotizm",
+      "low": "Past nevrotizm"
+    },
+    "L": {
+      "description": "Yolg'on javoblar",
+      "max": 5,
+      "invalid_above": "Test natijalari ishonchsiz"
+    }
+  },
+  "temperament_matrix": {
+    "Choleric": {"E": "high", "N": "high"},
+    "Sanguine": {"E": "high", "N": "low"},
+    "Phlegmatic": {"E": "low", "N": "low"},
+    "Melancholic": {"E": "low", "N": "high"}
+  }
+}
+

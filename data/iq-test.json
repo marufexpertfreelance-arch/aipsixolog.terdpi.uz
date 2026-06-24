@@ -1,0 +1,250 @@
+{
+  "id": "iq",
+  "name": "IQ Test",
+  "description": "Bu test sizning intellektual qobiliyatlaringizni baholash uchun mo'ljallangan. Testda mantiqiy fikrlash, matematika, til qobiliyatlari va sonli qobiliyatlar baholanadi. Test 40 ta savoldan iborat.",
+  "instructions": "Har bir savolga diqqat bilan javob bering. Hech qanday savolni o'tkazib yubormang. Vaqt cheklanmagan, lekin tezroq javob berish yaxshiroq natija beradi. Testda 40 ta savol mavjud.",
+  "type": "iq",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Agar 2 + 2 = 4 bo'lsa, 3 + 3 nimaga teng?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": 1
+    },
+    {
+      "id": 2,
+      "text": "Quyidagi raqamlar ketma-ketligida keyingi raqam qanday bo'lishi kerak? 2, 4, 6, 8, ?",
+      "options": ["9", "10", "11", "12"],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "text": "Agar olma meva bo'lsa, qanday narsa sabzavot?",
+      "options": ["Banan", "Sabzi", "Apelsin", "Uzum"],
+      "correct_answer": 1
+    },
+    {
+      "id": 4,
+      "text": "Agar 5 ta kitob ketma-ket 10 soatda o'qilsa, 10 ta kitob necha soatda o'qiladi?",
+      "options": ["15 soat", "20 soat", "25 soat", "30 soat"],
+      "correct_answer": 1
+    },
+    {
+      "id": 5,
+      "text": "Quyidagi so'zlardan qaysi biri boshqalaridan farq qiladi?",
+      "options": ["Mashina", "Velosiped", "Samolyot", "Kitob"],
+      "correct_answer": 3
+    },
+    {
+      "id": 6,
+      "text": "Agar bugun chorshanba bo'lsa, 3 kun keyin qanday kun bo'ladi?",
+      "options": ["Shanba", "Yakshanba", "Dushanba", "Juma"],
+      "correct_answer": 0
+    },
+    {
+      "id": 7,
+      "text": "1, 4, 9, 16, ? - Keyingi raqam qanday?",
+      "options": ["20", "25", "30", "36"],
+      "correct_answer": 1
+    },
+    {
+      "id": 8,
+      "text": "Agar 10 ta bola 20 ta olmani teng taqsimlasa, har bir bola nechta olma oladi?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": 1
+    },
+    {
+      "id": 9,
+      "text": "Quyidagi so'zlardan qaysi biri antonim (teskari ma'noli)?",
+      "options": ["Katta - Kichik", "Yaxshi - Zo'r", "Qizil - Qizil", "Tez - Jiddiy"],
+      "correct_answer": 0
+    },
+    {
+      "id": 10,
+      "text": "Agar 1 soat = 60 daqiqa bo'lsa, 2 soat necha daqiqa?",
+      "options": ["100 daqiqa", "120 daqiqa", "140 daqiqa", "160 daqiqa"],
+      "correct_answer": 1
+    },
+    {
+      "id": 11,
+      "text": "3, 6, 9, 12, ? - Keyingi raqam qanday?",
+      "options": ["14", "15", "16", "18"],
+      "correct_answer": 1
+    },
+    {
+      "id": 12,
+      "text": "Agar kitob o'qishga o'xshasa, qanday narsa yozishga o'xshaydi?",
+      "options": ["Qalam", "Daftar", "Ruchka", "Qog'oz"],
+      "correct_answer": 2
+    },
+    {
+      "id": 13,
+      "text": "5, 10, 15, 20, ? - Keyingi raqam qanday?",
+      "options": ["22", "25", "30", "35"],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "text": "Agar 12 ta olma 3 ta kishiga teng taqsimlansa, har bir kishi nechta olma oladi?",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": 1
+    },
+    {
+      "id": 15,
+      "text": "Quyidagi so'zlardan qaysi biri boshqalaridan farq qiladi?",
+      "options": ["Qizil", "Yashil", "Kulrang", "Rang"],
+      "correct_answer": 3
+    },
+    {
+      "id": 16,
+      "text": "2, 5, 8, 11, ? - Keyingi raqam qanday?",
+      "options": ["13", "14", "15", "16"],
+      "correct_answer": 1
+    },
+    {
+      "id": 17,
+      "text": "Agar bugun dushanba bo'lsa, 5 kun keyin qanday kun bo'ladi?",
+      "options": ["Juma", "Shanba", "Yakshanba", "Dushanba"],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "text": "Agar 4 ta stul 8 ta oyoq bo'lsa, 6 ta stul nechta oyoq?",
+      "options": ["10", "12", "14", "16"],
+      "correct_answer": 1
+    },
+    {
+      "id": 19,
+      "text": "1, 3, 6, 10, ? - Keyingi raqam qanday?",
+      "options": ["13", "15", "16", "18"],
+      "correct_answer": 1
+    },
+    {
+      "id": 20,
+      "text": "Agar oq qora teskari bo'lsa, qanday so'z qizil teskari?",
+      "options": ["Yashil", "Ko'k", "Sariq", "Qora"],
+      "correct_answer": 0
+    },
+    {
+      "id": 21,
+      "text": "10, 20, 30, 40, ? - Keyingi raqam qanday?",
+      "options": ["45", "50", "55", "60"],
+      "correct_answer": 1
+    },
+    {
+      "id": 22,
+      "text": "Agar 1 kilogramm = 1000 gramm bo'lsa, 2.5 kilogramm necha gramm?",
+      "options": ["2000 gramm", "2500 gramm", "3000 gramm", "3500 gramm"],
+      "correct_answer": 1
+    },
+    {
+      "id": 23,
+      "text": "Quyidagi raqamlar ketma-ketligida keyingi raqam qanday? 7, 14, 21, 28, ?",
+      "options": ["32", "35", "38", "42"],
+      "correct_answer": 1
+    },
+    {
+      "id": 24,
+      "text": "Agar uy xonadan katta bo'lsa, qanday narsa shahardan katta?",
+      "options": ["Ko'cha", "Mamlakat", "Shahar", "Mahalla"],
+      "correct_answer": 1
+    },
+    {
+      "id": 25,
+      "text": "4, 9, 16, 25, ? - Keyingi raqam qanday?",
+      "options": ["30", "36", "40", "49"],
+      "correct_answer": 1
+    },
+    {
+      "id": 26,
+      "text": "Agar 3 ta qalam 1500 so'm bo'lsa, 5 ta qalam necha so'm?",
+      "options": ["2000 so'm", "2500 so'm", "3000 so'm", "3500 so'm"],
+      "correct_answer": 1
+    },
+    {
+      "id": 27,
+      "text": "Quyidagi so'zlardan qaysi biri boshqalaridan farq qiladi?",
+      "options": ["Olma", "Banan", "Sabzi", "Apelsin"],
+      "correct_answer": 2
+    },
+    {
+      "id": 28,
+      "text": "1, 2, 4, 8, ? - Keyingi raqam qanday?",
+      "options": ["12", "14", "16", "18"],
+      "correct_answer": 2
+    },
+    {
+      "id": 29,
+      "text": "Agar bugun seshanba bo'lsa, 7 kun keyin qanday kun bo'ladi?",
+      "options": ["Seshanba", "Chorshanba", "Payshanba", "Juma"],
+      "correct_answer": 0
+    },
+    {
+      "id": 30,
+      "text": "Agar 6 ta mehmon 12 ta stul kerak bo'lsa, 9 ta mehmon nechta stul kerak?",
+      "options": ["15", "16", "18", "20"],
+      "correct_answer": 2
+    },
+    {
+      "id": 31,
+      "text": "5, 8, 11, 14, ? - Keyingi raqam qanday?",
+      "options": ["16", "17", "18", "19"],
+      "correct_answer": 1
+    },
+    {
+      "id": 32,
+      "text": "Agar kitob = o'qish bo'lsa, qanday narsa = eshitish?",
+      "options": ["Radio", "Televizor", "Telefon", "Musiqa"],
+      "correct_answer": 3
+    },
+    {
+      "id": 33,
+      "text": "Quyidagi raqamlar ketma-ketligida keyingi raqam qanday? 12, 24, 36, 48, ?",
+      "options": ["54", "60", "66", "72"],
+      "correct_answer": 1
+    },
+    {
+      "id": 34,
+      "text": "Agar 1 metr = 100 santimetr bo'lsa, 3 metr necha santimetr?",
+      "options": ["200 santimetr", "300 santimetr", "400 santimetr", "500 santimetr"],
+      "correct_answer": 1
+    },
+    {
+      "id": 35,
+      "text": "Quyidagi so'zlardan qaysi biri boshqalaridan farq qiladi?",
+      "options": ["Yoz", "Qish", "Bahor", "Kun"],
+      "correct_answer": 3
+    },
+    {
+      "id": 36,
+      "text": "3, 7, 11, 15, ? - Keyingi raqam qanday?",
+      "options": ["18", "19", "20", "21"],
+      "correct_answer": 1
+    },
+    {
+      "id": 37,
+      "text": "Agar 8 ta bola 16 ta kitobni teng taqsimlasa, har bir bola nechta kitob oladi?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": 1
+    },
+    {
+      "id": 38,
+      "text": "Agar oq = yorug'lik bo'lsa, qanday narsa = qorong'ulik?",
+      "options": ["Qora", "Kulrang", "Qizil", "Yashil"],
+      "correct_answer": 0
+    },
+    {
+      "id": 39,
+      "text": "6, 12, 18, 24, ? - Keyingi raqam qanday?",
+      "options": ["28", "30", "32", "36"],
+      "correct_answer": 1
+    },
+    {
+      "id": 40,
+      "text": "Agar 1 yil = 12 oy bo'lsa, 2 yil necha oy?",
+      "options": ["20 oy", "24 oy", "28 oy", "30 oy"],
+      "correct_answer": 1
+    }
+  ]
+}
+
