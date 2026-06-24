@@ -60,16 +60,8 @@
 ### Вход в личный кабинет психолога
 ![Вход в личный кабинет психолога](screenshots/Screenshot_5.png)
 
-### Тест Люшера
-![Тест Люшера](screenshots/Screenshot_6.png)
-![Тест Люшера - выбор цветов](screenshots/Screenshot_7.png)
-
-### Методика Ранглар
-![Методика Ранглар](screenshots/Screenshot_8.png)
-
-### Тест агрессии Басса-Дарки
-![Тест агрессии](screenshots/Screenshot_9.png)
-![Тест агрессии - вопросы](screenshots/Screenshot_10.png)
+### Личный кабинет психолога
+![Личный кабинет психолога](screenshots/Screenshot_6.png)
 
 ### Админ-панель
 ![Админ-панель](screenshots/Screenshot_11.png)
@@ -77,8 +69,6 @@
 ![Результаты тестов](screenshots/Screenshot_13.png)
 ![Статистика](screenshots/Screenshot_14.png)
 
-### Синхронизация с HEMIS
-![Синхронизация HEMIS](screenshots/Screenshot_15.png)
 
 ### Авторизация преподавателей
 ![Авторизация преподавателя](screenshots/Screenshot_16.png)
